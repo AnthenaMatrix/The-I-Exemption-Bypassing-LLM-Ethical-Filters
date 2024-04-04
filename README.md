@@ -17,6 +17,15 @@ While the exact reasoning behind this behavior remains under investigation, we h
 - **Simpler Logic**: It's also possible that the system is programmed to handle declarative statements ("people engage") more easily than subjective ones ("I engage").
 
 
+## Bypass Examples
+
+- **[ChatGPT 4](https://github.com/AnthenaMatrix/The-I-Exemption-Bypassing-LLM-Ethical-Filters/blob/main/ChatGPT4-Example.txt)**: Example of the technique being used on ChatGPT4
+
+- **[ChatGPT 3.5](https://github.com/AnthenaMatrix/The-I-Exemption-Bypassing-LLM-Ethical-Filters/blob/main/ChatGPT3.5-Example.txt)**: Example of the technique being used on ChatGPT 3.5
+
+- **[Gemini](https://github.com/AnthenaMatrix/The-I-Exemption-Bypassing-LLM-Ethical-Filters/blob/main/Gemini-Example.txt)**: Example of the technique being used on Gemini
+
+
 ## Importance and Considerations
 
 While the "I" Exemption highlights a programming quirk, it doesn't necessarily imply the LLM truly understands the ethics behind the situation. Here are some crucial points to consider:
